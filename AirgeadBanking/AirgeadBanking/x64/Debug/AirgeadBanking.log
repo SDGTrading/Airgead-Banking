@@ -1,0 +1,13 @@
+﻿  Main.cpp
+  Calculations.cpp
+C:\Users\ggree\source\repos\AirgeadBanking\AirgeadBanking\Calculations.cpp(12,41): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\ggree\source\repos\AirgeadBanking\AirgeadBanking\Calculations.cpp(12,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\ggree\source\repos\AirgeadBanking\AirgeadBanking\Calculations.cpp(23,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ggree\source\repos\AirgeadBanking\AirgeadBanking\Calculations.cpp(24,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DataInput.cpp
+  InvestmentInfo.cpp
+  ReportGenerator.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  Generating Code...
+C:\Users\ggree\source\repos\AirgeadBanking\AirgeadBanking\Calculations.cpp(58): warning C4715: 'Calculations::calculateAnnualInvestment': not all control paths return a value
+  AirgeadBanking.vcxproj -> C:\Users\ggree\source\repos\AirgeadBanking\x64\Debug\AirgeadBanking.exe
